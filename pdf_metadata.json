@@ -1,0 +1,38 @@
+{
+    "GLOBAL_OPTIONS": {
+        "verbose": false,
+        "site_url": "https://example.com",
+        "debug": false,
+        "debug_target": null,
+        "author": "Sphinx-PDF Generate",
+        "author_logo": null,
+        "copyright": "2023, Sphinx-PDF Generate",
+        "disclaimer": "Disclaimer: Content can change at anytime and best to refer to website for latest information.",
+        "cover": true,
+        "cover_title": "Sphinx-PDF Generate",
+        "cover_subtitle": null,
+        "custom_template_path": "_templates",
+        "theme_handler_path": null,
+        "plugin_handler_path": null,
+        "custom_css_path": null,
+        "toc": true,
+        "toc_numbering": true,
+        "toc_title": "Table of Contents",
+        "toc_level": 4,
+        "cover_images": null,
+        "theme_name": "alabaster",
+        "templates_path": [
+            "_templates"
+        ]
+    },
+    "LOCAL_OPTIONS": {
+        "index": {
+            "pdf-filename": "SPDF-HOme",
+            "pdf-title": "Homepage",
+            "pdf-revision": "0.0.1",
+            "pdf-type": "manual"
+        },
+        "genindex": null,
+        "search": null
+    }
+}
